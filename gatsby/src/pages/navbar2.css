@@ -1,0 +1,36 @@
+#head3{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+    margin-left: 35%;
+    
+}
+#head4{
+    color: orangered;
+    font-family: Source Sans Pro;
+}
+#service1{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+}
+#about1{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+}
+#news1{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+}
+#home1{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+}
+#navbarsExample09{
+    margin-right: 4%;
+}
+#nav2{
+    margin-top: 9% !important;
+}
+.nav-link{
+    font-size: 1rem !important;
+}

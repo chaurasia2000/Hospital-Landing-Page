@@ -1,0 +1,45 @@
+#head1{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+    margin-left: 55%;
+    
+}
+#head2{
+    color: orangered;
+    font-family: Source Sans Pro;
+}
+#service{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+}
+#about{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+}
+#news{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+}
+#home{
+    color: #0073FF;
+    font-family: Source Sans Pro;
+}
+#btnnav{
+    border-radius: 40px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    margin-right: 9rem;
+    margin-left: 1rem;
+    font-size: 1rem;
+}
+#navbarSupportedContent{
+    margin-right: 3%;
+}
+.nav-link{
+    font-size: 1rem;
+}
+#navcon{
+    margin-top: 15px;
+}

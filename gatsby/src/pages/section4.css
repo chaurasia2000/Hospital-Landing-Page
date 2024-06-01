@@ -1,0 +1,42 @@
+#sec4p1{
+font-family: Source Sans Pro !important;
+font-size: 1.6rem !important;
+margin-bottom: 8rem !important;
+text-align: center !important;
+color: #002348 !important;
+}
+h5{
+font-family: Source Sans Pro !important;
+font-size: 44px !important;
+font-weight: 600 !important;
+text-align: center !important;
+color: #003B79 !important;
+}
+
+#sec4container{
+    background-color: #f5f5f53e;
+    margin-top: 20rem !important;
+    margin-bottom: -5rem;
+}
+#sec4con2{
+    border-radius: 10px !important;
+    margin-top: -18% !important;
+}
+.card{
+    width: 100% !important;
+    height: 70% !important;
+    background-color: #AED3E2 !important;
+    border: solid #AED3E2;
+}
+.outer{
+    height: 456px !important;
+    overflow: hidden;
+    height: 470px !important;
+    width: 250px;
+}
+.bold{
+    font-size: 1.1rem;
+}
+.col{
+    color: #002348 !important;
+}

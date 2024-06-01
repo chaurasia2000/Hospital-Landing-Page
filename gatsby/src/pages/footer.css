@@ -1,0 +1,20 @@
+.icon{
+    height: 44px;
+    width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    font-size: 20px;
+    border-radius: 50%;
+}
+footer{
+    height: 210px !important;
+    width: 100% !important;
+    margin-top: 20px;
+    background-color: #EBEEFF !important;
+}
+#footerpara{
+    margin-top: -40px;
+    margin-left: 10px;
+}

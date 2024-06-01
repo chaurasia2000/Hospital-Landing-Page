@@ -1,0 +1,32 @@
+#container{
+    background: #007FF4;
+    border-radius: 15px;
+    height: 410px;
+    width: 1198px;
+    margin-top: 13% !important;
+}
+#sec5h1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+#sec5p{
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    margin-bottom: 4.5rem !important;
+}
+#inp-btn{
+    border-radius: 40px !important;
+    font-size: medium;
+    padding: 15% !important;
+    padding-left: 18% !important;
+    padding-right: 18% !important;
+    margin-right: 45px;
+}
+#inputGroup-sizing-sm{
+    background: white;
+}
+#container{
+    padding-bottom: 28rem !important;
+}

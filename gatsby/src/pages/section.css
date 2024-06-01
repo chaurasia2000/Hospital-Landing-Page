@@ -1,0 +1,47 @@
+#hfirst{
+    color: #002348;
+    font-style: Source Sans Pro;
+    margin-top: 15% !important;
+}
+#fsvg{
+    width: 470px;
+height: 672px;
+top: 141px;
+left: 745px;
+gap: 0px;
+opacity: 0px;
+}
+
+#btnsec1{
+    font-style: Source Sans Pro;
+    font-size: 1rem;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    border-radius: 25px;
+    margin-left: -20px;
+}
+#btnsec2{
+    color: #1d82ee !important;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    font-size: 1rem;
+}
+#h1sec1{
+    margin-top: 20px;
+    margin-bottom: 3% !important;
+    color:#003B79;
+    font-size: 3.5rem;
+    text-align: start !important;
+}
+#btndiv{
+    margin-bottom: 50%;
+    
+}
+#psec1{
+    color: #002348 !important;
+}
+#containersec1{
+    margin-top: 5rem !important;
+}
