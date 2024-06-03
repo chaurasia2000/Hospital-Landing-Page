@@ -16,7 +16,7 @@ const Section1 = () => {
         <button className="btn fw-bold bg-text-primary" id="btnsec2">Departments</button>
         </div>
         </div>
-        <div className="col-auto d-none d-lg-block" id="fsvg">
+        <div className="col-auto d-lg-block" id="fsvg">
           <div className="rounded-4" id="sec1divp2"></div>
         </div>
       </div>
